@@ -1,5 +1,5 @@
 # Machine Learning for Life Sciences Project 1 - Hourly Bicyclist Prediction on Coupure Links, Ghent
-This project focuses on predicting hourly bicyclist counts on Coupure Links in Ghent, employing a Histogram Gradient Boosting regressor to forecast July values based on data from January to June, while also serving as the initial foray into essential machine learning practices within the Machine Learning for Life Sciences course at Ghent University.
+This project focuses on predicting hourly bicyclist counts on Coupure Links in Ghent, employing a Histogram Gradient Boosting regressor to forecast July values based on data from January to June, while also serving as the initial foray into essential machine learning practices within the Machine Learning for Life Sciences course at Ghent University. The project was performed in Google Colab notebook in Python running on CPU.
 
 ## Introduction
 
